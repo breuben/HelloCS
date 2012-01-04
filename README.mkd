@@ -1,0 +1,11 @@
+#HelloCS#
+
+Project for testing the different Git integration options for Windows.
+
+Modifications to this project were made with the following:
+
+- [msysgit](http://code.google.com/p/msysgit/) - the command-line git client compiled natively for Windows
+- [Git Source Control Provider](http://visualstudiogallery.msdn.microsoft.com/63a7e40d-4d71-4fbb-a23b-d262124b8f4c) - extension for Visual Studio 2010
+- [TortoiseGit](http://code.google.com/p/tortoisegit/) - client integrated with Windows Explorer
+- [SmartGit](http://www.syntevo.com/smartgit/index.html) - standalone Git client
+
